@@ -3,7 +3,7 @@
 In this exercise we will start creating embeddings using OpenAI's embedding API. Feel free to use the already imported libraries `openai`, `numpy`, `seaborn`, `sklearn`, or `matplotlib`.
 
 ## Part 0: Set up your Environment
-Note: If Hermit is already active, use `deactive-hermit` to drop the active Hermit context. 
+Note: If Hermit is already active, use `deactivate-hermit` to drop the active Hermit context. 
 
 1. Use `. bin/activate-hermit` in this folder to activate Hermit.
 2. Install the Python dependencies using `pip install -r requirements.txt`

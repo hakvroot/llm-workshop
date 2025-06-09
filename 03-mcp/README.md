@@ -3,7 +3,7 @@
 In this exercise we will implement a tool using MCP and use it with an LLM. Although you may implement anything you want, the provided example will get the next garbage collections from ROVA for a given postcode and house number.
 
 ## Part 0: Set up your Environment
-Note: If Hermit is already active, use `deactive-hermit` to drop the active Hermit context. 
+Note: If Hermit is already active, use `deactivate-hermit` to drop the active Hermit context. 
 
 1. Use `. bin/activate-hermit` in this folder to activate Hermit.
 2. Start the project using `npx @modelcontextprotocol/inspector uv run mcp-exercise`

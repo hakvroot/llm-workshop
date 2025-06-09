@@ -3,7 +3,7 @@
 This will be today's last exercise, where we'll combine the lessons from earlier exercises with MCP, by offering a tool that uses a vector store to provide RAG capabilities.
 
 ## Part 0: Set up your Environment
-Note: If Hermit is already active, use `deactive-hermit` to drop the active Hermit context. 
+Note: If Hermit is already active, use `deactivate-hermit` to drop the active Hermit context. 
 
 1. Use `. bin/activate-hermit` in this folder to activate Hermit.
 2. Start the project using `npx @modelcontextprotocol/inspector uv run mcp-rag`
