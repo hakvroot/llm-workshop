@@ -17,7 +17,7 @@ Call the OpenAI API twice to create an embedding for the word "Bike" twice. Are 
 Of course calculating similarity is more complex than using equals - we will use the cosine similarity from now on. `numpy` is already installed and imported, calculate the similarity for the vector obtained in Part 1.
 
 ## Part 3: How Good are Embeddings?
-Create an embeddings cosimilarity matrix for the following words
+Create an embeddings cosine cosimilarity matrix for the following words
 
 - "Joy"
 - "Dog"
